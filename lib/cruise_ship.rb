@@ -17,7 +17,12 @@ def select_winner(passengers)
 # Inside our iteration, we use an if statement combined with the && ("and") boolean operator to check if we have the right suite and if the person in that suite has a name that begins with the letter "A".
 
       winner = name
+      
+# If that condition returns true, we've found our winner! We set their name equal to the winner variable and end our iteration.
+      
   end
 end
+
+
 winner
 end
