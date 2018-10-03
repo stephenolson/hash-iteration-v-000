@@ -22,7 +22,8 @@ def select_winner(passengers)
       
   end
 end
-
-
 winner
+
+# Then, we call on our winner variable to return the name of the lucky winner.
+
 end
